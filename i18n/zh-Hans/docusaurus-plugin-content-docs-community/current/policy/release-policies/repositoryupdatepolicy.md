@@ -8,7 +8,7 @@ slug: /policy/release-policies/repository-update-policy
 # openRuyi 软件仓库更新流程
 
 本文档介绍了 openRuyi 软件仓库更新流程。
-整个 openRuyi 的软件仓库更新流程会根据冻结期进行调整，所以本文会依照[冻结期说明](/governance/policy/release-policies/freeze-period-policy)分为"过渡期"和"冻结期"两个部分。
+整个 openRuyi 的软件仓库更新流程会根据冻结期进行调整，所以本文会依照[冻结期说明](/community/policy/release-policies/freeze-period-policy)分为"过渡期"和"冻结期"两个部分。
 
 ## 过渡期
 

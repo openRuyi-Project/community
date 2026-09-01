@@ -9,7 +9,7 @@ slug: /policy/release-policies/repository-update-policy
 
 The current document describes the package repository update process for openRuyi.
 
-The freeze schedule dictates the repository update process in openRuyi. Therefore, the guide divides the process into two sections: Transition Period and Freeze Period, in accordance with the [Freeze Period Policy](/governance/policy/release-policies/freeze-period-policy).
+The freeze schedule dictates the repository update process in openRuyi. Therefore, the guide divides the process into two sections: Transition Period and Freeze Period, in accordance with the [Freeze Period Policy](/community/policy/release-policies/freeze-period-policy).
 
 ## Transition Period
 
